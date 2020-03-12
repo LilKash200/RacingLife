@@ -1,8 +1,8 @@
-setBackdropStyle("cover");
+
 
 // SH - You can change your background here!
 setBackdropURL(
-  "https://imag.malavida.com/mvimgbig/download-fs/grand-theft-auto-4145-1.jpg"
+  "https://i.gifer.com/FXP9.gif"
 );
 
 // This creates the player image. You can modify it by using the player variable
